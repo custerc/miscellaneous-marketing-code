@@ -14,6 +14,6 @@ Doesn't work anymore, was only compatible with GA3
 
 Scrapes job role count data from indeed.com for tracking
 
-## woopra-checker.py
+## keyword-counter-CLI.py
 
 Checks a list of terms and desired term counts (terms.csv) and a text draft and checks the text to see if each minimum has been met. To run, put all files in a directory with python, navigate to that directory in the command line, and run this command: `python woopra-checker.py terms.csv text.txt`
